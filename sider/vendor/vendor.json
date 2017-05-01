@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/aandryashin/sider/siderd/client",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "40vJyUB4ezQSn/NSadsKEOrudMc=",
+			"path": "github.com/inconshreveable/mousetrap",
+			"revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+			"revisionTime": "2014-10-17T20:07:13Z"
+		},
+		{
+			"checksumSHA1": "J4Vd08gOIclmyJo1aYyju9kEdL4=",
+			"path": "github.com/spf13/cobra",
+			"revision": "bc8a58ff4dd5c544249f2bf6763302f1914eafea",
+			"revisionTime": "2017-05-01T14:51:43Z"
+		},
+		{
+			"checksumSHA1": "i2gYgNcazwBV3RSlE5btIUMjwv0=",
+			"path": "github.com/spf13/pflag",
+			"revision": "f1d95a35e132e8a1868023a08932b14f0b8b8fcb",
+			"revisionTime": "2017-04-27T12:51:45Z"
+		}
+	],
+	"rootPath": "github.com/aandryashin/sider/sider"
+}

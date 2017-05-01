@@ -3,6 +3,12 @@
 *.a
 *.so
 
+sider/sider
+siderd/siderd
+
+# Vendor
+*/vendor/*/
+
 # Folders
 _obj
 _test
