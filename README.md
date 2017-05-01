@@ -69,6 +69,8 @@ $ sider get 1
 [
     "one"
 ]
+
+$ sider del 1
 ```
 
 By default keys are not expired, to set keys with expiration timeout provide ttl option in golang time.Duration notation:
