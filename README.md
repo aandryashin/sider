@@ -13,7 +13,7 @@ $ go get -u github.com/kardianos/govendor
 
 Build applications separately
 
-Daemon:
+###Daemon:
 ```
 $ cd $GOPATH/src/github.com/aandryashin/siderd
 ```
@@ -30,7 +30,7 @@ Run daemon:
 $ ./siderd --help
 ```
 
-Command line client:
+###Command line client:
 ```
 $ cd $GOPATH/src/github.com/aandryashin/sider
 ```
